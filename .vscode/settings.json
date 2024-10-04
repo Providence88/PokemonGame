@@ -1,0 +1,14 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:/Users/jangm/Desktop/javafx-sdk-21.0.1/lib/javafx.base.jar",
+        "c:/Users/jangm/Desktop/javafx-sdk-21.0.1/lib/javafx.controls.jar",
+        "c:/Users/jangm/Desktop/javafx-sdk-21.0.1/lib/javafx.fxml.jar",
+        "c:/Users/jangm/Desktop/javafx-sdk-21.0.1/lib/javafx.graphics.jar",
+        "c:/Users/jangm/Desktop/javafx-sdk-21.0.1/lib/javafx.media.jar",
+        "c:/Users/jangm/Desktop/javafx-sdk-21.0.1/lib/javafx.swing.jar",
+        "c:/Users/jangm/Desktop/javafx-sdk-21.0.1/lib/javafx.web.jar",
+        "c:/Users/jangm/Desktop/javafx-sdk-21.0.1/lib/javafx-swt.jar"
+    ]
+}

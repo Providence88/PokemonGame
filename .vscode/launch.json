@@ -1,0 +1,53 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "Driver",
+            "projectName": "CCPROG3MP_1fae6998"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AreaDisplayGUI",
+            "request": "launch",
+            "mainClass": "AreaDisplayGUI",
+            "projectName": "CCPROG3MP_1fae6998",
+            "vmArgs": "--module-path \"C:\\Users\\jangm\\Desktop\\javafx-sdk-21.0.1\\lib\"--add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "BattlePhaseGUI",
+            "request": "launch",
+            "mainClass": "BattlePhaseGUI",
+            "projectName": "CCPROG3MP_1fae6998",
+            "vmArgs": "--module-path \"C:\\Users\\jangm\\Desktop\\javafx-sdk-21.0.1\\lib\"--add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "Driver",
+            "projectName": "CCPROG3MP_1fae6998",
+            "vmArgs": "--module-path \"C:\\Users\\jangm\\Desktop\\javafx-sdk-21.0.1\\lib\"--add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "EvolutionPhaseGUI",
+            "request": "launch",
+            "mainClass": "EvolutionPhaseGUI",
+            "projectName": "CCPROG3MP_1fae6998",
+            "vmArgs": "--module-path \"C:\\Users\\jangm\\Desktop\\javafx-sdk-21.0.1\\lib\"--add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
